@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+
+# Сырые данные не публикуем, ссылка на источник есть в README
+archive/
+data/
+
+# Личные документы
+CV_Data_Analyst.pdf
